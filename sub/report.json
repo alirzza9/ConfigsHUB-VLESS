@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:41:01.273375+00:00",
+  "generated_at": "2026-10-31T21:04:54.396620+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -7,37 +7,37 @@
     "AM": {
       "total": 1,
       "tcp_alive": 1,
-      "ok": 0,
+      "ok": 1,
       "unsupported": 0
     },
     "CA": {
       "total": 8,
       "tcp_alive": 8,
-      "ok": 0,
+      "ok": 6,
       "unsupported": 0
     },
     "DE": {
       "total": 17,
-      "tcp_alive": 17,
-      "ok": 1,
+      "tcp_alive": 16,
+      "ok": 4,
       "unsupported": 1
     },
     "ES": {
       "total": 1,
       "tcp_alive": 1,
-      "ok": 0,
+      "ok": 1,
       "unsupported": 0
     },
     "FI": {
       "total": 3,
       "tcp_alive": 3,
-      "ok": 0,
+      "ok": 3,
       "unsupported": 0
     },
     "FR": {
       "total": 6,
-      "tcp_alive": 6,
-      "ok": 1,
+      "tcp_alive": 5,
+      "ok": 3,
       "unsupported": 0
     },
     "IR": {
@@ -66,11 +66,11 @@
     },
     "UNKNOWN": {
       "total": 16,
-      "tcp_alive": 16,
-      "ok": 1,
+      "tcp_alive": 14,
+      "ok": 5,
       "unsupported": 2
     }
   },
-  "all_ok": 6,
+  "all_ok": 26,
   "unsupported_total": 4
 }
