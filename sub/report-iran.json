@@ -1,0 +1,82 @@
+{
+  "iran_nodes": [
+    "ir1.node.check-host.net",
+    "ir2.node.check-host.net",
+    "ir3.node.check-host.net",
+    "ir4.node.check-host.net",
+    "ir5.node.check-host.net",
+    "ir7.node.check-host.net"
+  ],
+  "results": {
+    "31.76.68.160:443": {
+      "host": "31.76.68.160:443",
+      "ok": false,
+      "good": 0,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": null,
+        "ir2.node.check-host.net": null,
+        "ir3.node.check-host.net": null,
+        "ir4.node.check-host.net": null,
+        "ir5.node.check-host.net": null,
+        "ir7.node.check-host.net": null
+      }
+    },
+    "45.198.0.88:443": {
+      "host": "45.198.0.88:443",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.115408,
+        "ir2.node.check-host.net": 0.188436,
+        "ir3.node.check-host.net": 0.151191,
+        "ir4.node.check-host.net": 0.196085,
+        "ir5.node.check-host.net": 0.167874,
+        "ir7.node.check-host.net": 0.097837
+      }
+    },
+    "88.216.70.92:443": {
+      "host": "88.216.70.92:443",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.08724,
+        "ir2.node.check-host.net": 0.131391,
+        "ir3.node.check-host.net": 0.137323,
+        "ir4.node.check-host.net": 0.140666,
+        "ir5.node.check-host.net": 0.076398,
+        "ir7.node.check-host.net": 0.081229
+      }
+    },
+    "2.26.55.145:1443": {
+      "host": "2.26.55.145:1443",
+      "ok": false,
+      "good": 0,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": null,
+        "ir2.node.check-host.net": null,
+        "ir3.node.check-host.net": null,
+        "ir4.node.check-host.net": null,
+        "ir5.node.check-host.net": null,
+        "ir7.node.check-host.net": null
+      }
+    },
+    "179.253.179.109:63053": {
+      "host": "179.253.179.109:63053",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.110782,
+        "ir2.node.check-host.net": 0.146693,
+        "ir3.node.check-host.net": 0.153715,
+        "ir4.node.check-host.net": 0.162556,
+        "ir5.node.check-host.net": 0.114407,
+        "ir7.node.check-host.net": 0.107573
+      }
+    }
+  }
+}
