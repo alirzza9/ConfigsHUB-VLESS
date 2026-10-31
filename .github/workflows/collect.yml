@@ -1,0 +1,78 @@
+name: Collect ConfigsHUB VLESS
+
+# Interval chosen 2026-10-31 after checking other projects:
+#   V2RayRoot: 30 min, MhdiTaheri: 60 min, FreeVPNNodes: 2h,
+#   Airport-Free: 3h, v2all: 6h, tiagorrg: 30 min (TCP only),
+#   mrvcoder: 5h (old).
+# This repo is PRIVATE, so GitHub Actions minutes are capped
+# (Free plan: 2,000 min/month; public repos are unlimited).
+# A full run here (collect + TCP + real Xray + Iran Check-host)
+# takes roughly 3-5 minutes for 8 pages, so:
+#   every 3h = 8 runs/day = ~960-1,200 min/month (safe margin),
+#   every 30 min would be ~5,700 min/month (over the private cap).
+# Manual refresh is always available via workflow_dispatch.
+on:
+  schedule:
+    - cron: "0 */3 * * *"  # every 3 hours, UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Download Xray
+        run: |
+          curl -sL https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip -o /tmp/xray.zip
+          mkdir -p /tmp/xray-bin
+          unzip -o -q /tmp/xray.zip xray -d /tmp/xray-bin
+          chmod +x /tmp/xray-bin/xray
+          /tmp/xray-bin/xray version | head -1
+
+      - name: Collect (ConfigsHUB only, VLESS only, no pages.dev/workers.dev)
+        run: python3 collector.py 8 raw
+
+      - name: Two-stage test (TCP 4s, then real Xray 8s, OK only)
+        env:
+          TCP_TIMEOUT: "4"
+          TCP_WORKERS: "100"
+          REAL_TIMEOUT: "8"
+          REAL_WORKERS: "20"
+        run: python3 tester.py raw sub /tmp/xray-bin/xray
+
+      - name: For-Iran test (Check-host Iran nodes, TCP)
+        continue-on-error: true
+        run: python3 iran_test.py sub/vless-all-plain.txt sub/vless-for-iran-plain.txt sub/report-iran.json
+
+      - name: Rename (Alirzza + flag, For-Iran with star + Iran ping)
+        run: python3 final_names.py sub
+
+      - name: Commit and push subs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sub/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update subs [skip ci]"
+            git push
+          fi
