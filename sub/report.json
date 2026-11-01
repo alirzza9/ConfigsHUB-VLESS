@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:48:34.602059+00:00",
+  "generated_at": "2026-11-01T12:50:55.078131+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -18,8 +18,8 @@
     },
     "DE": {
       "total": 17,
-      "tcp_alive": 15,
-      "ok": 3,
+      "tcp_alive": 13,
+      "ok": 1,
       "unsupported": 1
     },
     "ES": {
@@ -31,7 +31,7 @@
     "FI": {
       "total": 3,
       "tcp_alive": 3,
-      "ok": 3,
+      "ok": 0,
       "unsupported": 0
     },
     "FR": {
@@ -71,6 +71,6 @@
       "unsupported": 2
     }
   },
-  "all_ok": 25,
+  "all_ok": 20,
   "unsupported_total": 4
 }
