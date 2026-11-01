@@ -8,60 +8,23 @@
     "ir7.node.check-host.net"
   ],
   "results": {
+    "185.168.208.190:47443": {
+      "host": "185.168.208.190:47443",
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
     "104.18.47.73:443": {
       "host": "104.18.47.73:443",
       "ok": true,
       "good": 6,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": 0.082906,
-        "ir2.node.check-host.net": 0.104153,
-        "ir3.node.check-host.net": 0.118104,
-        "ir4.node.check-host.net": 0.111904,
-        "ir5.node.check-host.net": 0.082113,
-        "ir7.node.check-host.net": 0.081155
-      }
-    },
-    "104.18.40.100:443": {
-      "host": "104.18.40.100:443",
-      "ok": true,
-      "good": 6,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.08583,
-        "ir2.node.check-host.net": 0.093229,
-        "ir3.node.check-host.net": 0.113474,
-        "ir4.node.check-host.net": 0.113233,
-        "ir5.node.check-host.net": 0.087536,
-        "ir7.node.check-host.net": 0.083071
-      }
-    },
-    "172.66.0.162:443": {
-      "host": "172.66.0.162:443",
-      "ok": true,
-      "good": 6,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.084777,
-        "ir2.node.check-host.net": 0.100548,
-        "ir3.node.check-host.net": 0.107926,
-        "ir4.node.check-host.net": 0.111516,
-        "ir5.node.check-host.net": 0.08686,
-        "ir7.node.check-host.net": 0.076852
-      }
-    },
-    "104.21.221.158:443": {
-      "host": "104.21.221.158:443",
-      "ok": true,
-      "good": 6,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.076792,
-        "ir2.node.check-host.net": 0.093707,
-        "ir3.node.check-host.net": 0.10947,
-        "ir4.node.check-host.net": 0.101433,
-        "ir5.node.check-host.net": 0.086128,
-        "ir7.node.check-host.net": 0.0775130000000001
+        "ir1.node.check-host.net": 0.088217,
+        "ir2.node.check-host.net": 0.083439,
+        "ir3.node.check-host.net": 0.099482,
+        "ir4.node.check-host.net": 0.093925,
+        "ir5.node.check-host.net": 0.088244,
+        "ir7.node.check-host.net": 0.08063
       }
     },
     "172.64.152.241:443": {
@@ -70,12 +33,40 @@
       "good": 6,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": 0.087657,
-        "ir2.node.check-host.net": 0.09289,
-        "ir3.node.check-host.net": 0.11602,
-        "ir4.node.check-host.net": 0.117206,
-        "ir5.node.check-host.net": 0.083129,
-        "ir7.node.check-host.net": 0.082142
+        "ir1.node.check-host.net": 0.076486,
+        "ir2.node.check-host.net": 0.064407,
+        "ir3.node.check-host.net": 0.088572,
+        "ir4.node.check-host.net": 0.095413,
+        "ir5.node.check-host.net": 0.082617,
+        "ir7.node.check-host.net": 0.081621
+      }
+    },
+    "172.66.0.162:443": {
+      "host": "172.66.0.162:443",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.087967,
+        "ir2.node.check-host.net": 0.072702,
+        "ir3.node.check-host.net": 0.102881,
+        "ir4.node.check-host.net": 0.095696,
+        "ir5.node.check-host.net": 0.07195,
+        "ir7.node.check-host.net": 0.070139
+      }
+    },
+    "104.18.40.100:443": {
+      "host": "104.18.40.100:443",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.08298,
+        "ir2.node.check-host.net": 0.087651,
+        "ir3.node.check-host.net": 0.087928,
+        "ir4.node.check-host.net": 0.085266,
+        "ir5.node.check-host.net": 0.080356,
+        "ir7.node.check-host.net": 0.082499
       }
     },
     "188.164.248.216:443": {
@@ -84,26 +75,26 @@
       "good": 6,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": 0.078375,
-        "ir2.node.check-host.net": 0.051899,
-        "ir3.node.check-host.net": 0.038631,
-        "ir4.node.check-host.net": 0.061685,
-        "ir5.node.check-host.net": 0.014551,
-        "ir7.node.check-host.net": 0.093113
+        "ir1.node.check-host.net": 0.079348,
+        "ir2.node.check-host.net": 0.039355,
+        "ir3.node.check-host.net": 0.022705,
+        "ir4.node.check-host.net": 0.051339,
+        "ir5.node.check-host.net": 0.008758,
+        "ir7.node.check-host.net": 0.0866
       }
     },
-    "185.168.208.190:47443": {
-      "host": "185.168.208.190:47443",
-      "ok": false,
-      "good": 0,
+    "104.21.221.158:443": {
+      "host": "104.21.221.158:443",
+      "ok": true,
+      "good": 6,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": null,
-        "ir2.node.check-host.net": null,
-        "ir3.node.check-host.net": null,
-        "ir4.node.check-host.net": null,
-        "ir5.node.check-host.net": null,
-        "ir7.node.check-host.net": null
+        "ir1.node.check-host.net": 0.086546,
+        "ir2.node.check-host.net": 0.073059,
+        "ir3.node.check-host.net": 0.095012,
+        "ir4.node.check-host.net": 0.088802,
+        "ir5.node.check-host.net": 0.084716,
+        "ir7.node.check-host.net": 0.083668
       }
     },
     "51.158.206.19:23576": {
@@ -112,12 +103,26 @@
       "good": 6,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": 0.090778,
-        "ir2.node.check-host.net": 0.094488,
-        "ir3.node.check-host.net": 0.110972,
-        "ir4.node.check-host.net": 0.122886,
-        "ir5.node.check-host.net": 0.091539,
-        "ir7.node.check-host.net": 0.085828
+        "ir1.node.check-host.net": 0.085809,
+        "ir2.node.check-host.net": 0.089764,
+        "ir3.node.check-host.net": 0.099128,
+        "ir4.node.check-host.net": 0.098247,
+        "ir5.node.check-host.net": 0.099866,
+        "ir7.node.check-host.net": 0.080953
+      }
+    },
+    "51.158.206.97:23576": {
+      "host": "51.158.206.97:23576",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.0905860000000001,
+        "ir2.node.check-host.net": 0.0878139999999999,
+        "ir3.node.check-host.net": 0.104356,
+        "ir4.node.check-host.net": 0.102717,
+        "ir5.node.check-host.net": 0.096055,
+        "ir7.node.check-host.net": 0.089534
       }
     },
     "88.216.70.92:443": {
@@ -126,12 +131,40 @@
       "good": 6,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": 0.083259,
-        "ir2.node.check-host.net": 0.102737,
-        "ir3.node.check-host.net": 0.110414,
-        "ir4.node.check-host.net": 0.100434,
-        "ir5.node.check-host.net": 0.074474,
-        "ir7.node.check-host.net": 0.077647
+        "ir1.node.check-host.net": 0.083042,
+        "ir2.node.check-host.net": 0.079588,
+        "ir3.node.check-host.net": 0.097146,
+        "ir4.node.check-host.net": 0.092599,
+        "ir5.node.check-host.net": 0.074381,
+        "ir7.node.check-host.net": 0.082604
+      }
+    },
+    "212.227.235.66:2053": {
+      "host": "212.227.235.66:2053",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.122356,
+        "ir2.node.check-host.net": 0.12046,
+        "ir3.node.check-host.net": 0.132246,
+        "ir4.node.check-host.net": 0.130108,
+        "ir5.node.check-host.net": 0.123708,
+        "ir7.node.check-host.net": 0.135537
+      }
+    },
+    "45.198.0.88:443": {
+      "host": "45.198.0.88:443",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.113483,
+        "ir2.node.check-host.net": 0.105732,
+        "ir3.node.check-host.net": 0.112962,
+        "ir4.node.check-host.net": 0.116548,
+        "ir5.node.check-host.net": 0.105607,
+        "ir7.node.check-host.net": 0.103201
       }
     },
     "ai.smrtai.top:443": {
@@ -148,64 +181,22 @@
         "ir7.node.check-host.net": null
       }
     },
-    "212.227.235.66:2053": {
-      "host": "212.227.235.66:2053",
-      "ok": true,
-      "good": 4,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.123316,
-        "ir2.node.check-host.net": 0.129166,
-        "ir3.node.check-host.net": 0.134657,
-        "ir4.node.check-host.net": null,
-        "ir5.node.check-host.net": 0.123378,
-        "ir7.node.check-host.net": null
-      }
-    },
-    "152.228.139.33:35108": {
-      "host": "152.228.139.33:35108",
-      "ok": true,
-      "good": 5,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.095713,
-        "ir2.node.check-host.net": 0.101473,
-        "ir3.node.check-host.net": 0.106674,
-        "ir4.node.check-host.net": 0.106386,
-        "ir5.node.check-host.net": 0.091576,
-        "ir7.node.check-host.net": null
-      }
-    },
-    "45.198.0.88:443": {
-      "host": "45.198.0.88:443",
-      "ok": true,
-      "good": 5,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.106285,
-        "ir2.node.check-host.net": null,
-        "ir3.node.check-host.net": 0.14034,
-        "ir4.node.check-host.net": 0.151277,
-        "ir5.node.check-host.net": 0.102655,
-        "ir7.node.check-host.net": 0.100792
-      }
-    },
-    "51.158.206.97:23576": {
-      "host": "51.158.206.97:23576",
+    "137.74.16.237:443": {
+      "host": "137.74.16.237:443",
       "ok": true,
       "good": 6,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": 0.095549,
-        "ir2.node.check-host.net": 0.094374,
-        "ir3.node.check-host.net": 0.112245,
-        "ir4.node.check-host.net": 0.123138,
-        "ir5.node.check-host.net": 0.100004,
-        "ir7.node.check-host.net": 0.08741
+        "ir1.node.check-host.net": 0.097577,
+        "ir2.node.check-host.net": 0.093415,
+        "ir3.node.check-host.net": 0.094655,
+        "ir4.node.check-host.net": 0.105215,
+        "ir5.node.check-host.net": 0.079255,
+        "ir7.node.check-host.net": 0.089923
       }
     },
-    "91.107.180.176:465": {
-      "host": "91.107.180.176:465",
+    "45.38.190.101:443": {
+      "host": "45.38.190.101:443",
       "ok": false,
       "good": 0,
       "of": 6,
@@ -232,6 +223,76 @@
         "ir7.node.check-host.net": null
       }
     },
+    "91.107.180.176:465": {
+      "host": "91.107.180.176:465",
+      "ok": true,
+      "good": 6,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.085019,
+        "ir2.node.check-host.net": 0.085462,
+        "ir3.node.check-host.net": 0.086667,
+        "ir4.node.check-host.net": 0.10139,
+        "ir5.node.check-host.net": 0.078217,
+        "ir7.node.check-host.net": 0.081308
+      }
+    },
+    "179.253.179.109:63053": {
+      "host": "179.253.179.109:63053",
+      "ok": false,
+      "good": 0,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": null,
+        "ir2.node.check-host.net": null,
+        "ir3.node.check-host.net": null,
+        "ir4.node.check-host.net": null,
+        "ir5.node.check-host.net": null,
+        "ir7.node.check-host.net": null
+      }
+    },
+    "152.228.139.33:35108": {
+      "host": "152.228.139.33:35108",
+      "ok": false,
+      "good": 0,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": null,
+        "ir2.node.check-host.net": null,
+        "ir3.node.check-host.net": null,
+        "ir4.node.check-host.net": null,
+        "ir5.node.check-host.net": null,
+        "ir7.node.check-host.net": null
+      }
+    },
+    "hw6.divarkhaghazi.com:465": {
+      "host": "hw6.divarkhaghazi.com:465",
+      "ok": false,
+      "good": 0,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": null,
+        "ir2.node.check-host.net": null,
+        "ir3.node.check-host.net": null,
+        "ir4.node.check-host.net": null,
+        "ir5.node.check-host.net": null,
+        "ir7.node.check-host.net": null
+      }
+    },
+    "hw3.divarkhaghazi.com:465": {
+      "host": "hw3.divarkhaghazi.com:465",
+      "ok": false,
+      "good": 0,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": null,
+        "ir2.node.check-host.net": null,
+        "ir3.node.check-host.net": null,
+        "ir4.node.check-host.net": null,
+        "ir5.node.check-host.net": null,
+        "ir7.node.check-host.net": null
+      }
+    },
     "bigshagy.zqpm.ir:5780": {
       "host": "bigshagy.zqpm.ir:5780",
       "ok": false,
@@ -246,8 +307,8 @@
         "ir7.node.check-host.net": null
       }
     },
-    "45.38.190.101:443": {
-      "host": "45.38.190.101:443",
+    "77.91.68.70:55983": {
+      "host": "77.91.68.70:55983",
       "ok": false,
       "good": 0,
       "of": 6,
@@ -257,76 +318,6 @@
         "ir3.node.check-host.net": null,
         "ir4.node.check-host.net": null,
         "ir5.node.check-host.net": null,
-        "ir7.node.check-host.net": null
-      }
-    },
-    "77.91.68.70:55983": {
-      "host": "77.91.68.70:55983",
-      "ok": true,
-      "good": 5,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.106948,
-        "ir2.node.check-host.net": 0.110797,
-        "ir3.node.check-host.net": 0.093402,
-        "ir4.node.check-host.net": 0.130406,
-        "ir5.node.check-host.net": 0.074376,
-        "ir7.node.check-host.net": null
-      }
-    },
-    "137.74.16.237:443": {
-      "host": "137.74.16.237:443",
-      "ok": true,
-      "good": 5,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.099334,
-        "ir2.node.check-host.net": 0.095834,
-        "ir3.node.check-host.net": 0.117452,
-        "ir4.node.check-host.net": 0.106138,
-        "ir5.node.check-host.net": 0.090919,
-        "ir7.node.check-host.net": null
-      }
-    },
-    "179.253.179.109:63053": {
-      "host": "179.253.179.109:63053",
-      "ok": true,
-      "good": 4,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.115029,
-        "ir2.node.check-host.net": 0.130765,
-        "ir3.node.check-host.net": null,
-        "ir4.node.check-host.net": 0.126424,
-        "ir5.node.check-host.net": 0.11035,
-        "ir7.node.check-host.net": null
-      }
-    },
-    "hw3.divarkhaghazi.com:465": {
-      "host": "hw3.divarkhaghazi.com:465",
-      "ok": true,
-      "good": 5,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.102021,
-        "ir2.node.check-host.net": 0.110442,
-        "ir3.node.check-host.net": 0.216075,
-        "ir4.node.check-host.net": null,
-        "ir5.node.check-host.net": 0.182359,
-        "ir7.node.check-host.net": 0.232919
-      }
-    },
-    "hw6.divarkhaghazi.com:465": {
-      "host": "hw6.divarkhaghazi.com:465",
-      "ok": true,
-      "good": 4,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": 0.104286,
-        "ir2.node.check-host.net": 0.325033,
-        "ir3.node.check-host.net": null,
-        "ir4.node.check-host.net": 0.230593,
-        "ir5.node.check-host.net": 0.172982,
         "ir7.node.check-host.net": null
       }
     }
