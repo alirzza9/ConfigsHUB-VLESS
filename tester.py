@@ -171,6 +171,12 @@ def write_pair(outdir: Path, stem: str, configs):
 
 def main():
     rawdir, outdir, xray = Path(sys.argv[1]), Path(sys.argv[2]), sys.argv[3]
+    # Fresh run: drop stale outputs from a previous source/channel so old
+    # country files are not left published after a source switch.
+    outdir.mkdir(parents=True, exist_ok=True)
+    for stale in outdir.glob("vless-*.txt"):
+        stale.unlink()
+    (outdir / "report.json").unlink(missing_ok=True)
     tcp_timeout = float(os.environ.get("TCP_TIMEOUT", "4"))
     tcp_workers = int(os.environ.get("TCP_WORKERS", "100"))
     real_timeout = int(os.environ.get("REAL_TIMEOUT", "8"))
