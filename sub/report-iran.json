@@ -8,51 +8,51 @@
     "ir7.node.check-host.net"
   ],
   "results": {
-    "172.66.0.162:443": {
-      "host": "172.66.0.162:443",
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
-    },
-    "172.64.152.241:443": {
-      "host": "172.64.152.241:443",
-      "ok": false,
-      "good": 0,
-      "of": 6,
-      "times": {
-        "ir1.node.check-host.net": null,
-        "ir2.node.check-host.net": null,
-        "ir3.node.check-host.net": null,
-        "ir4.node.check-host.net": null,
-        "ir5.node.check-host.net": null,
-        "ir7.node.check-host.net": null
-      }
-    },
     "104.18.40.100:443": {
       "host": "104.18.40.100:443",
       "ok": false,
-      "good": 0,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    "172.66.0.162:443": {
+      "host": "172.66.0.162:443",
+      "ok": true,
+      "good": 5,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": null,
-        "ir2.node.check-host.net": null,
-        "ir3.node.check-host.net": null,
+        "ir1.node.check-host.net": 0.075845,
+        "ir2.node.check-host.net": 0.082407,
+        "ir3.node.check-host.net": 0.095251,
         "ir4.node.check-host.net": null,
-        "ir5.node.check-host.net": null,
-        "ir7.node.check-host.net": null
+        "ir5.node.check-host.net": 0.087273,
+        "ir7.node.check-host.net": 0.077367
+      }
+    },
+    "172.64.152.241:443": {
+      "host": "172.64.152.241:443",
+      "ok": true,
+      "good": 5,
+      "of": 6,
+      "times": {
+        "ir1.node.check-host.net": 0.081292,
+        "ir2.node.check-host.net": 0.08182,
+        "ir3.node.check-host.net": 0.096122,
+        "ir4.node.check-host.net": null,
+        "ir5.node.check-host.net": 0.078701,
+        "ir7.node.check-host.net": 0.083588
       }
     },
     "104.21.221.158:443": {
       "host": "104.21.221.158:443",
-      "ok": false,
-      "good": 0,
+      "ok": true,
+      "good": 5,
       "of": 6,
       "times": {
-        "ir1.node.check-host.net": null,
-        "ir2.node.check-host.net": null,
-        "ir3.node.check-host.net": null,
+        "ir1.node.check-host.net": 0.083057,
+        "ir2.node.check-host.net": 0.080614,
+        "ir3.node.check-host.net": 0.089486,
         "ir4.node.check-host.net": null,
-        "ir5.node.check-host.net": null,
-        "ir7.node.check-host.net": null
+        "ir5.node.check-host.net": 0.084675,
+        "ir7.node.check-host.net": 0.085603
       }
     },
     "hw6.divarkhaghazi.com:465": {

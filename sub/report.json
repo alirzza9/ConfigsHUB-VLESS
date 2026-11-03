@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:29:57.320088+00:00",
+  "generated_at": "2026-11-03T05:46:47.539568+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -42,7 +42,7 @@
     },
     "RA": {
       "total": 3,
-      "tcp_alive": 3,
+      "tcp_alive": 2,
       "ok": 0,
       "unsupported": 0
     },
