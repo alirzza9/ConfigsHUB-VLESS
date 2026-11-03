@@ -1,4 +1,4 @@
-name: Collect ConfigsHUB VLESS
+name: Collect persianvpnhub VLESS
 
 # Interval chosen 2026-10-31 after checking other projects:
 #   V2RayRoot: 30 min, MhdiTaheri: 60 min, FreeVPNNodes: 2h,
@@ -47,7 +47,7 @@ jobs:
           chmod +x /tmp/xray-bin/xray
           /tmp/xray-bin/xray version | head -1
 
-      - name: Collect (ConfigsHUB only, VLESS only, no pages.dev/workers.dev)
+      - name: Collect (persianvpnhub only, VLESS only, no pages.dev/workers.dev)
         run: python3 collector.py 8 raw
 
       - name: Two-stage test (TCP 4s, then real Xray 8s, OK only)
