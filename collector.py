@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Clean collector for ONE channel only: ConfigsHUB, VLESS only.
+"""Clean collector for ONE channel only: persianvpnhub, VLESS only.
 
 No Telegram API, no phone number, no bot token.
-Source is the public web page https://t.me/s/ConfigsHUB, paged with
+Source is the public web page https://t.me/s/persianvpnhub, paged with
 ?before=<oldest post id> (post ids come from data-post="ConfigsHUB/<id>").
 Country comes from the channel's own flag in the config remark, e.g. 🇨🇦 -> CA.
 Output is PLAIN text only; tester.py turns the tested-OK subset into
@@ -16,7 +16,7 @@ from pathlib import Path
 
 import requests
 
-CHANNEL = "ConfigsHUB"
+CHANNEL = "persianvpnhub"
 BASE = f"https://t.me/s/{CHANNEL}"
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
@@ -25,7 +25,7 @@ VLESS_RE = re.compile(r"vless://[^\s<\"']+")
 # User's blocklist (2026-10-31): any config whose URI contains one of
 # these (address, SNI, host header, path, remark, ...) is NOT collected.
 BLOCKED_SUBSTRINGS = ("pages.dev", "workers.dev")
-POST_RE = re.compile(r'data-post="ConfigsHUB/(\d+)"')
+POST_RE = re.compile(rf'data-post="{CHANNEL}/(\d+)"')
 
 def flag_to_cc(flag: str) -> str:
     return "".join(chr(ord(c) - 0x1F1E6 + ord("A")) for c in flag)
