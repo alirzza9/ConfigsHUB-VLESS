@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T19:29:28.514789+00:00",
+  "generated_at": "2026-11-05T01:21:34.188598+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
   "countries": {
-    "BG": {
+    "CA": {
       "total": 1,
       "tcp_alive": 1,
       "ok": 1,
       "unsupported": 0
     },
     "CP": {
-      "total": 1,
-      "tcp_alive": 1,
+      "total": 2,
+      "tcp_alive": 2,
       "ok": 0,
       "unsupported": 0
     },
@@ -22,28 +22,16 @@
       "ok": 0,
       "unsupported": 0
     },
-    "CZ": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
-      "unsupported": 0
-    },
     "DE": {
-      "total": 11,
-      "tcp_alive": 7,
+      "total": 5,
+      "tcp_alive": 5,
       "ok": 4,
-      "unsupported": 2
-    },
-    "EE": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
-      "unsupported": 0
+      "unsupported": 1
     },
     "FR": {
       "total": 1,
       "tcp_alive": 1,
-      "ok": 0,
+      "ok": 1,
       "unsupported": 0
     },
     "GB": {
@@ -53,30 +41,30 @@
       "unsupported": 0
     },
     "IR": {
-      "total": 3,
-      "tcp_alive": 3,
+      "total": 2,
+      "tcp_alive": 2,
       "ok": 0,
-      "unsupported": 3
-    },
-    "IT": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
-      "unsupported": 0
+      "unsupported": 2
     },
     "NL": {
-      "total": 9,
-      "tcp_alive": 9,
-      "ok": 9,
+      "total": 15,
+      "tcp_alive": 15,
+      "ok": 15,
       "unsupported": 0
     },
     "PL": {
-      "total": 2,
-      "tcp_alive": 2,
-      "ok": 1,
+      "total": 1,
+      "tcp_alive": 1,
+      "ok": 0,
       "unsupported": 0
     },
     "SC": {
+      "total": 2,
+      "tcp_alive": 2,
+      "ok": 2,
+      "unsupported": 0
+    },
+    "SE": {
       "total": 1,
       "tcp_alive": 1,
       "ok": 1,
@@ -88,19 +76,13 @@
       "ok": 0,
       "unsupported": 0
     },
-    "UNKNOWN": {
-      "total": 3,
-      "tcp_alive": 3,
-      "ok": 0,
-      "unsupported": 0
-    },
     "US": {
-      "total": 7,
-      "tcp_alive": 7,
-      "ok": 2,
+      "total": 12,
+      "tcp_alive": 12,
+      "ok": 0,
       "unsupported": 1
     }
   },
-  "all_ok": 21,
-  "unsupported_total": 6
+  "all_ok": 24,
+  "unsupported_total": 4
 }
