@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:21:34.188598+00:00",
+  "generated_at": "2026-11-05T10:28:43.825748+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -16,27 +16,15 @@
       "ok": 0,
       "unsupported": 0
     },
-    "CY": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 0,
-      "unsupported": 0
-    },
     "DE": {
-      "total": 5,
+      "total": 6,
       "tcp_alive": 5,
-      "ok": 4,
-      "unsupported": 1
-    },
-    "FR": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
-      "unsupported": 0
+      "ok": 2,
+      "unsupported": 2
     },
     "GB": {
       "total": 2,
-      "tcp_alive": 2,
+      "tcp_alive": 0,
       "ok": 0,
       "unsupported": 0
     },
@@ -49,7 +37,7 @@
     "NL": {
       "total": 15,
       "tcp_alive": 15,
-      "ok": 15,
+      "ok": 14,
       "unsupported": 0
     },
     "PL": {
@@ -79,10 +67,10 @@
     "US": {
       "total": 12,
       "tcp_alive": 12,
-      "ok": 0,
+      "ok": 1,
       "unsupported": 1
     }
   },
-  "all_ok": 24,
-  "unsupported_total": 4
+  "all_ok": 21,
+  "unsupported_total": 5
 }
