@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:39:21.894637+00:00",
+  "generated_at": "2026-11-06T01:25:25.981667+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -11,16 +11,16 @@
       "unsupported": 0
     },
     "CP": {
-      "total": 2,
-      "tcp_alive": 1,
+      "total": 3,
+      "tcp_alive": 2,
       "ok": 0,
       "unsupported": 0
     },
     "DE": {
-      "total": 10,
-      "tcp_alive": 8,
-      "ok": 5,
-      "unsupported": 3
+      "total": 11,
+      "tcp_alive": 7,
+      "ok": 4,
+      "unsupported": 1
     },
     "FR": {
       "total": 1,
@@ -35,18 +35,12 @@
       "unsupported": 0
     },
     "NL": {
-      "total": 12,
-      "tcp_alive": 11,
-      "ok": 10,
+      "total": 11,
+      "tcp_alive": 10,
+      "ok": 9,
       "unsupported": 0
     },
     "PL": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
-      "unsupported": 0
-    },
-    "SC": {
       "total": 1,
       "tcp_alive": 1,
       "ok": 1,
@@ -65,12 +59,12 @@
       "unsupported": 0
     },
     "US": {
-      "total": 3,
-      "tcp_alive": 3,
+      "total": 6,
+      "tcp_alive": 6,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 1
     }
   },
-  "all_ok": 24,
-  "unsupported_total": 3
+  "all_ok": 21,
+  "unsupported_total": 2
 }
