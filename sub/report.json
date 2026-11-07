@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-07T09:43:18.648818+00:00",
+  "generated_at": "2026-11-07T17:34:46.630199+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
   "countries": {
     "AE": {
       "total": 1,
-      "tcp_alive": 0,
+      "tcp_alive": 1,
       "ok": 0,
       "unsupported": 0
     },
     "AT": {
       "total": 1,
       "tcp_alive": 1,
-      "ok": 1,
+      "ok": 0,
       "unsupported": 0
     },
     "BG": {
@@ -30,13 +30,13 @@
     },
     "CP": {
       "total": 6,
-      "tcp_alive": 2,
+      "tcp_alive": 1,
       "ok": 0,
       "unsupported": 0
     },
     "DE": {
-      "total": 10,
-      "tcp_alive": 9,
+      "total": 8,
+      "tcp_alive": 7,
       "ok": 3,
       "unsupported": 1
     },
@@ -59,14 +59,14 @@
       "unsupported": 0
     },
     "GB": {
-      "total": 3,
-      "tcp_alive": 0,
+      "total": 4,
+      "tcp_alive": 1,
       "ok": 0,
       "unsupported": 0
     },
     "IR": {
-      "total": 1,
-      "tcp_alive": 0,
+      "total": 7,
+      "tcp_alive": 7,
       "ok": 0,
       "unsupported": 0
     },
@@ -77,15 +77,15 @@
       "unsupported": 0
     },
     "NL": {
-      "total": 11,
-      "tcp_alive": 11,
-      "ok": 11,
+      "total": 8,
+      "tcp_alive": 8,
+      "ok": 8,
       "unsupported": 0
     },
     "PL": {
-      "total": 2,
-      "tcp_alive": 2,
-      "ok": 2,
+      "total": 1,
+      "tcp_alive": 1,
+      "ok": 1,
       "unsupported": 0
     },
     "RO": {
@@ -95,8 +95,8 @@
       "unsupported": 0
     },
     "RU": {
-      "total": 2,
-      "tcp_alive": 1,
+      "total": 5,
+      "tcp_alive": 4,
       "ok": 1,
       "unsupported": 0
     },
@@ -107,12 +107,12 @@
       "unsupported": 0
     },
     "US": {
-      "total": 13,
-      "tcp_alive": 10,
-      "ok": 1,
-      "unsupported": 0
+      "total": 16,
+      "tcp_alive": 15,
+      "ok": 2,
+      "unsupported": 1
     }
   },
-  "all_ok": 25,
-  "unsupported_total": 2
+  "all_ok": 21,
+  "unsupported_total": 3
 }
