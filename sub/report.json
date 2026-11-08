@@ -1,94 +1,117 @@
 {
-  "generated_at": "2026-11-08T19:23:34.415238+00:00",
+  "generated_at": "2026-11-08T23:15:12.636089+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
+  "cap": 50,
   "countries": {
     "BG": {
       "total": 2,
       "tcp_alive": 2,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "CH": {
       "total": 1,
       "tcp_alive": 1,
       "ok": 1,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "CP": {
       "total": 5,
       "tcp_alive": 1,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "DE": {
       "total": 1,
       "tcp_alive": 1,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "EE": {
       "total": 1,
       "tcp_alive": 1,
       "ok": 1,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "FI": {
       "total": 2,
       "tcp_alive": 2,
       "ok": 0,
-      "unsupported": 2
+      "unsupported": 2,
+      "dropped_by_cap": 0
     },
     "FR": {
       "total": 2,
       "tcp_alive": 2,
       "ok": 2,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "GB": {
-      "total": 8,
-      "tcp_alive": 3,
+      "total": 9,
+      "tcp_alive": 4,
       "ok": 3,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "IR": {
-      "total": 7,
-      "tcp_alive": 7,
+      "total": 5,
+      "tcp_alive": 5,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "NL": {
       "total": 3,
       "tcp_alive": 0,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "RU": {
       "total": 2,
       "tcp_alive": 2,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "SI": {
       "total": 1,
       "tcp_alive": 1,
       "ok": 0,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "TR": {
+      "total": 1,
+      "tcp_alive": 1,
+      "ok": 0,
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "UNKNOWN": {
       "total": 3,
       "tcp_alive": 3,
       "ok": 1,
-      "unsupported": 0
+      "unsupported": 0,
+      "dropped_by_cap": 0
     },
     "US": {
-      "total": 33,
-      "tcp_alive": 33,
+      "total": 36,
+      "tcp_alive": 36,
       "ok": 1,
-      "unsupported": 1
+      "unsupported": 1,
+      "dropped_by_cap": 0
     }
   },
   "all_ok": 9,
+  "all_dropped_by_cap": 0,
   "unsupported_total": 3
 }
