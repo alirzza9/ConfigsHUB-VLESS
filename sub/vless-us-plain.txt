@@ -1,1 +1,1 @@
-vless://3bb97d46-789b-4229-88f6-9beb222a4137@50.7.176.65:443?security=reality&sni=smart2.khinikadze.com&fp=firefox&pbk=lIZbI6KG18rkVDyMhLo7e6KvmffxR6fvFNzzC-O9vT8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#Alirzza🇺🇸
+vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#Alirzza🇺🇸
