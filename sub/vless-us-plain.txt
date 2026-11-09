@@ -1,1 +1,2 @@
 vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#Alirzza🇺🇸
+vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#Alirzza🇺🇸
