@@ -1,1 +1,1 @@
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?security=reality&encryption=none&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&host=sg-sin.probe.geomyip.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sg-sin.probe.geomyip.com&sid=2e96bf6afa823abb#Alirzza🇸🇬
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@143.42.66.91:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Alirzza🇸🇬
