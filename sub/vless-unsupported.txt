@@ -1,2 +1,1 @@
 vless://b9fe0667-dce6-4259-9c8e-b7ffe2d00276@s1.eldoradu.ir:2083?security=tls&host=appex1.megaconfig.com&type=httpupgrade&sni=appex1.megaconfig.com#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs
-vless://MiMiTDL@104.18.43.144:80?encryption=mlkem768x25519plus.native.0rtt.GlIc2LFlqBQ3itRnw8zoo3tfD7MSknWWmmLVDdr88jE&security=none&type=httpupgrade&host=erosan.seminar-irani.ir&path=%2FMiMiTDL#Channel%20%3A%20%40Daily_Configs
