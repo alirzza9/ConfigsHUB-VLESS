@@ -1,0 +1,2 @@
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@sizipe.hagrid-connected.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sizipe.hagrid-connected.com&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#Alirzza🇫🇮
+vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@sizipe.hagrid-connected.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sizipe.hagrid-connected.com#Alirzza🇫🇮
