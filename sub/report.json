@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:51:28.839822+00:00",
+  "generated_at": "2026-11-15T10:29:54.357952+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -62,9 +62,9 @@
       "dropped_by_cap": 0
     },
     "DE": {
-      "total": 18,
-      "tcp_alive": 17,
-      "ok": 13,
+      "total": 20,
+      "tcp_alive": 15,
+      "ok": 10,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -76,15 +76,15 @@
       "dropped_by_cap": 0
     },
     "FR": {
-      "total": 5,
-      "tcp_alive": 5,
-      "ok": 5,
+      "total": 6,
+      "tcp_alive": 6,
+      "ok": 6,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "GB": {
-      "total": 6,
-      "tcp_alive": 3,
+      "total": 3,
+      "tcp_alive": 1,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
@@ -105,8 +105,8 @@
     },
     "JP": {
       "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
+      "tcp_alive": 0,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -118,23 +118,23 @@
       "dropped_by_cap": 0
     },
     "NL": {
-      "total": 33,
-      "tcp_alive": 33,
-      "ok": 33,
+      "total": 35,
+      "tcp_alive": 34,
+      "ok": 34,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "PL": {
       "total": 7,
-      "tcp_alive": 7,
+      "tcp_alive": 6,
       "ok": 5,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "RU": {
-      "total": 4,
-      "tcp_alive": 4,
-      "ok": 2,
+      "total": 3,
+      "tcp_alive": 3,
+      "ok": 1,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -148,33 +148,33 @@
     "SE": {
       "total": 1,
       "tcp_alive": 1,
-      "ok": 1,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "TR": {
       "total": 2,
       "tcp_alive": 2,
-      "ok": 1,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "UNKNOWN": {
-      "total": 11,
-      "tcp_alive": 11,
+      "total": 4,
+      "tcp_alive": 4,
       "ok": 2,
-      "unsupported": 1,
+      "unsupported": 0,
       "dropped_by_cap": 0
     },
     "US": {
       "total": 25,
-      "tcp_alive": 25,
-      "ok": 9,
+      "tcp_alive": 23,
+      "ok": 10,
       "unsupported": 0,
       "dropped_by_cap": 0
     }
   },
   "all_ok": 50,
-  "all_dropped_by_cap": 34,
-  "unsupported_total": 1
+  "all_dropped_by_cap": 30,
+  "unsupported_total": 0
 }

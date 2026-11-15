@@ -1,1 +1,0 @@
-vless://b9fe0667-dce6-4259-9c8e-b7ffe2d00276@s1.eldoradu.ir:2083?security=tls&host=appex1.megaconfig.com&type=httpupgrade&sni=appex1.megaconfig.com#%F0%9F%87%A9%F0%9F%87%AA%20%40NamiraConfigs
