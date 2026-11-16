@@ -1,1 +1,2 @@
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.177:2092?security=reality&encryption=none&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=716b7eba38125f3a#Alirzza🇹🇷
+vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.177:2093?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp#Alirzza🇹🇷
+vless://10af09cf-dc4c-4c08-b524-10e7ef4667d6@panel.autonetshop.ir:13787?security=reality&encryption=none&pbk=-U1wp1S-Mi6lN2L2KusY95zw9obuZ3H26n1cbLw7lGs&headerType=none&fp=chrome&spx=%2Fbd0970b2777c61d&type=tcp&sni=sww.srv-alfarayen.ir&sid=41a72194ef86d6#Alirzza🇹🇷
