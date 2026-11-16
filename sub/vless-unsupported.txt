@@ -1,1 +1,2 @@
 vless://a2f76d8b-0385-4bfa-b14e-5f4860153655@dash.zeneco.ir:53231?security=none&encryption=mlkem768x25519plus.native.0rtt.BbeJhyjcSyRE6hWGA8ZXSkX-9JDpQ0KvWJCyjjiXgwM&host=dash.zeneco.ir&headerType=none&type=tcp#asamping.ir%20%20%D9%88%D8%A8%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://e5d4ca05-1045-4fb7-ba92-116fbfae4440@mtode2.sorianoir.ir:54892?encryption=mlkem768x25519plus.native.0rtt.CqDHmSM_Ev_IMbaQKfGiSYZZDs_vbWWbAjOvWlGABy8#%F0%9F%87%AB%F0%9F%87%B7%20%40NamiraConfigs
