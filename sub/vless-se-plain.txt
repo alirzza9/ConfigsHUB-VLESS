@@ -1,2 +1,1 @@
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.60.73:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=ios&type=tcp&sni=ns-api-gw.galioncc.com&sid=a7c92e4b10d6f835#Alirzza🇸🇪
-vless://5311859f-0b5d-4c26-a8bf-2648f113e4ea@143.246.195.46:443?security=reality&encryption=none&pbk=453QgfqoHVVQ-M7xjfH-bUu0HXz1mdWGuR3vNoBoeCM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sweden13.clearorbitllc.com&sid=4e1682#Alirzza🇸🇪

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:17:32.836679+00:00",
+  "generated_at": "2026-11-18T20:08:23.535103+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -12,13 +12,6 @@
       "unsupported": 0,
       "dropped_by_cap": 0
     },
-    "CA": {
-      "total": 1,
-      "tcp_alive": 0,
-      "ok": 0,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
     "CH": {
       "total": 2,
       "tcp_alive": 2,
@@ -27,17 +20,17 @@
       "dropped_by_cap": 0
     },
     "CP": {
-      "total": 2,
-      "tcp_alive": 1,
+      "total": 3,
+      "tcp_alive": 0,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "DE": {
       "total": 30,
-      "tcp_alive": 29,
-      "ok": 23,
-      "unsupported": 1,
+      "tcp_alive": 27,
+      "ok": 22,
+      "unsupported": 0,
       "dropped_by_cap": 0
     },
     "ES": {
@@ -55,15 +48,15 @@
       "dropped_by_cap": 0
     },
     "FR": {
-      "total": 15,
-      "tcp_alive": 14,
-      "ok": 11,
+      "total": 18,
+      "tcp_alive": 17,
+      "ok": 14,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "GB": {
-      "total": 7,
-      "tcp_alive": 3,
+      "total": 4,
+      "tcp_alive": 2,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
@@ -89,78 +82,92 @@
       "unsupported": 0,
       "dropped_by_cap": 0
     },
+    "KZ": {
+      "total": 1,
+      "tcp_alive": 1,
+      "ok": 1,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
     "LT": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
-    "NL": {
-      "total": 47,
-      "tcp_alive": 45,
-      "ok": 43,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
-    "PL": {
-      "total": 4,
-      "tcp_alive": 4,
-      "ok": 4,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
-    "RS": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
-    "RU": {
-      "total": 4,
-      "tcp_alive": 4,
-      "ok": 4,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
-    "SC": {
-      "total": 4,
-      "tcp_alive": 4,
-      "ok": 2,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
-    "SE": {
       "total": 2,
       "tcp_alive": 2,
       "ok": 2,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
-    "TR": {
+    "NL": {
+      "total": 48,
+      "tcp_alive": 47,
+      "ok": 47,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "PL": {
+      "total": 5,
+      "tcp_alive": 2,
+      "ok": 2,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "RO": {
+      "total": 1,
+      "tcp_alive": 1,
+      "ok": 1,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "RS": {
+      "total": 1,
+      "tcp_alive": 1,
+      "ok": 0,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "RU": {
+      "total": 4,
+      "tcp_alive": 4,
+      "ok": 2,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "SC": {
       "total": 4,
       "tcp_alive": 4,
       "ok": 1,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
-    "UNKNOWN": {
+    "SE": {
       "total": 3,
       "tcp_alive": 3,
-      "ok": 0,
+      "ok": 1,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "TR": {
+      "total": 2,
+      "tcp_alive": 2,
+      "ok": 2,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "UNKNOWN": {
+      "total": 4,
+      "tcp_alive": 4,
+      "ok": 1,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "US": {
-      "total": 26,
-      "tcp_alive": 26,
-      "ok": 17,
+      "total": 31,
+      "tcp_alive": 30,
+      "ok": 19,
       "unsupported": 0,
       "dropped_by_cap": 0
     }
   },
   "all_ok": 50,
-  "all_dropped_by_cap": 69,
-  "unsupported_total": 1
+  "all_dropped_by_cap": 75,
+  "unsupported_total": 0
 }
