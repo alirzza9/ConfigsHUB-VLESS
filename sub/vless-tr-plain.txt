@@ -1,2 +1,1 @@
 vless://9654f1a9-8dbc-4897-85ea-c077a52b3857@185.71.216.177:2195?security=reality&encryption=none&pbk=OKksVHWL5JepTv7if7Ta_L_7vn8OxW0INwV71HJM1jI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=3869d49a9a79e06a#Alirzza🇹🇷
-vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.177:2093?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp#Alirzza🇹🇷
