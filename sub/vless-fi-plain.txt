@@ -1,1 +1,1 @@
-vless://7def466a-5810-47cd-b56a-402f28dd03bf@fdh11.mobileemdad.top:8080?flow=xtls-rprx-vision&fp=firefox&pbk=tIQQp41fRrliguh9hOjPdKHkR5P_tFHqfhpHU_SKazc&security=reality&sid=eb11f7630faaaf60&sni=tgju.org#Alirzza🇫🇮
+vless://ea1bee20-9217-42c0-acee-d12bf0c42602@178.17.53.154:48982?mode=auto&security=reality&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&fp=firefox&type=xhttp&sni=cdn6-91.yahoo.com#Alirzza🇫🇮
