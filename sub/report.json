@@ -1,28 +1,35 @@
 {
-  "generated_at": "2026-11-19T02:21:36.909212+00:00",
+  "generated_at": "2026-11-19T11:15:42.821609+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
   "cap": 50,
   "countries": {
     "CH": {
-      "total": 2,
-      "tcp_alive": 2,
+      "total": 3,
+      "tcp_alive": 3,
       "ok": 2,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "CP": {
-      "total": 4,
-      "tcp_alive": 2,
+      "total": 3,
+      "tcp_alive": 0,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "DE": {
-      "total": 29,
-      "tcp_alive": 27,
-      "ok": 24,
+      "total": 33,
+      "tcp_alive": 33,
+      "ok": 26,
+      "unsupported": 0,
+      "dropped_by_cap": 0
+    },
+    "EE": {
+      "total": 1,
+      "tcp_alive": 1,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -41,37 +48,37 @@
       "dropped_by_cap": 0
     },
     "FR": {
-      "total": 20,
-      "tcp_alive": 19,
-      "ok": 15,
+      "total": 18,
+      "tcp_alive": 17,
+      "ok": 9,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "GB": {
-      "total": 4,
-      "tcp_alive": 2,
+      "total": 5,
+      "tcp_alive": 1,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "IE": {
       "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
+      "tcp_alive": 0,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "IR": {
-      "total": 5,
-      "tcp_alive": 5,
+      "total": 4,
+      "tcp_alive": 4,
       "ok": 3,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "JP": {
       "total": 2,
-      "tcp_alive": 2,
-      "ok": 2,
+      "tcp_alive": 0,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -90,14 +97,14 @@
       "dropped_by_cap": 0
     },
     "NL": {
-      "total": 48,
-      "tcp_alive": 47,
-      "ok": 46,
+      "total": 53,
+      "tcp_alive": 53,
+      "ok": 50,
       "unsupported": 0,
-      "dropped_by_cap": 0
+      "dropped_by_cap": 1
     },
     "PL": {
-      "total": 3,
+      "total": 1,
       "tcp_alive": 1,
       "ok": 1,
       "unsupported": 0,
@@ -106,20 +113,20 @@
     "RO": {
       "total": 2,
       "tcp_alive": 2,
-      "ok": 2,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "RU": {
-      "total": 3,
-      "tcp_alive": 3,
-      "ok": 3,
+      "total": 9,
+      "tcp_alive": 9,
+      "ok": 6,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "SC": {
-      "total": 2,
-      "tcp_alive": 2,
+      "total": 1,
+      "tcp_alive": 1,
       "ok": 1,
       "unsupported": 0,
       "dropped_by_cap": 0
@@ -153,14 +160,14 @@
       "dropped_by_cap": 0
     },
     "US": {
-      "total": 29,
-      "tcp_alive": 26,
-      "ok": 18,
+      "total": 26,
+      "tcp_alive": 25,
+      "ok": 17,
       "unsupported": 0,
       "dropped_by_cap": 0
     }
   },
   "all_ok": 50,
-  "all_dropped_by_cap": 77,
+  "all_dropped_by_cap": 74,
   "unsupported_total": 1
 }

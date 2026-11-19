@@ -1,2 +1,0 @@
-vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn4.velmoradigital.store#Alirzza🇷🇴
-vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?flow=xtls-rprx-vision&security=tls&sni=cdn4.velmoradigital.store&fp=firefox&alpn=h2%2Chttp%2F1.1#Alirzza🇷🇴
