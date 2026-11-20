@@ -1,1 +1,0 @@
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@80.47.10.106:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=pl8.galioncc.com&sid=a7c92e4b10d6f835#Alirzza🇵🇱
