@@ -1,2 +1,2 @@
-vless://ea1bee20-9217-42c0-acee-d12bf0c42602@178.17.53.154:48982?mode=auto&security=reality&encryption=none&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&fp=firefox&type=xhttp&sni=cdn6-91.yahoo.com#Alirzza🇫🇮
 vless://26843758-24de-4f76-b5d0-624038e353c4@196.196.204.137:443?encryption=none&security=reality&type=tcp&sni=71b840t.de7.h1clayd.click&fp=chrome&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4#Alirzza🇫🇮
+vless://ea1bee20-9217-42c0-acee-d12bf0c42602@178.17.53.154:48982?mode=auto&security=reality&encryption=none&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&fp=firefox&type=xhttp&sni=cdn6-91.yahoo.com#Alirzza🇫🇮
