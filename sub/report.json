@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:26:41.628008+00:00",
+  "generated_at": "2026-11-23T11:57:19.996479+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
@@ -15,21 +15,21 @@
     "CH": {
       "total": 4,
       "tcp_alive": 4,
-      "ok": 4,
+      "ok": 2,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "CP": {
       "total": 3,
-      "tcp_alive": 2,
+      "tcp_alive": 1,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "CY": {
-      "total": 1,
-      "tcp_alive": 1,
-      "ok": 1,
+      "total": 2,
+      "tcp_alive": 2,
+      "ok": 2,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -41,9 +41,9 @@
       "dropped_by_cap": 0
     },
     "DE": {
-      "total": 29,
-      "tcp_alive": 26,
-      "ok": 21,
+      "total": 28,
+      "tcp_alive": 28,
+      "ok": 20,
       "unsupported": 1,
       "dropped_by_cap": 0
     },
@@ -62,23 +62,23 @@
       "dropped_by_cap": 0
     },
     "FI": {
-      "total": 5,
+      "total": 4,
       "tcp_alive": 4,
-      "ok": 2,
+      "ok": 3,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "FR": {
-      "total": 14,
-      "tcp_alive": 14,
-      "ok": 14,
+      "total": 15,
+      "tcp_alive": 15,
+      "ok": 15,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "GB": {
       "total": 6,
-      "tcp_alive": 4,
-      "ok": 2,
+      "tcp_alive": 1,
+      "ok": 1,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -94,18 +94,18 @@
       "tcp_alive": 57,
       "ok": 50,
       "unsupported": 0,
-      "dropped_by_cap": 6
+      "dropped_by_cap": 5
     },
     "PL": {
-      "total": 3,
+      "total": 2,
       "tcp_alive": 2,
-      "ok": 2,
+      "ok": 1,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "RU": {
       "total": 15,
-      "tcp_alive": 13,
+      "tcp_alive": 14,
       "ok": 6,
       "unsupported": 0,
       "dropped_by_cap": 0
@@ -120,7 +120,7 @@
     "TR": {
       "total": 2,
       "tcp_alive": 2,
-      "ok": 2,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
@@ -132,14 +132,14 @@
       "dropped_by_cap": 0
     },
     "US": {
-      "total": 17,
-      "tcp_alive": 17,
-      "ok": 15,
+      "total": 19,
+      "tcp_alive": 18,
+      "ok": 14,
       "unsupported": 0,
       "dropped_by_cap": 0
     }
   },
   "all_ok": 50,
-  "all_dropped_by_cap": 76,
+  "all_dropped_by_cap": 71,
   "unsupported_total": 2
 }
