@@ -1,1 +1,0 @@
-vless://d81db550-4787-467e-b98a-579ee9d41999@177.1.192.89:443?security=reality&pbk=XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk&fp=firefox&type=grpc&serviceName=grpc&sni=www.cloudflare.com&sid=aab4c8abf7a4c4e4#Alirzza🇵🇱
