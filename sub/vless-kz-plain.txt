@@ -1,0 +1,1 @@
+vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=3h-kazakhstan1.09vpn.com#Alirzza🇰🇿
