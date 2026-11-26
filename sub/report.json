@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-26T01:40:09.900496+00:00",
+  "generated_at": "2026-11-26T12:00:07.260887+00:00",
   "probe": "https://www.gstatic.com/generate_204",
   "tcp_timeout": 4.0,
   "real_timeout": 8,
   "cap": 50,
   "countries": {
     "AE": {
-      "total": 3,
-      "tcp_alive": 3,
+      "total": 2,
+      "tcp_alive": 2,
       "ok": 2,
       "unsupported": 0,
       "dropped_by_cap": 0
@@ -21,29 +21,29 @@
     },
     "CP": {
       "total": 4,
-      "tcp_alive": 2,
+      "tcp_alive": 0,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "CY": {
-      "total": 7,
+      "total": 8,
       "tcp_alive": 7,
-      "ok": 7,
+      "ok": 4,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "CZ": {
       "total": 5,
-      "tcp_alive": 5,
-      "ok": 5,
+      "tcp_alive": 1,
+      "ok": 1,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "DE": {
-      "total": 21,
+      "total": 23,
       "tcp_alive": 19,
-      "ok": 16,
+      "ok": 13,
       "unsupported": 3,
       "dropped_by_cap": 0
     },
@@ -69,7 +69,7 @@
       "dropped_by_cap": 0
     },
     "GB": {
-      "total": 3,
+      "total": 5,
       "tcp_alive": 3,
       "ok": 1,
       "unsupported": 0,
@@ -85,20 +85,20 @@
     "KZ": {
       "total": 1,
       "tcp_alive": 1,
-      "ok": 1,
+      "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "LT": {
-      "total": 2,
-      "tcp_alive": 2,
+      "total": 1,
+      "tcp_alive": 1,
       "ok": 0,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "NL": {
-      "total": 53,
-      "tcp_alive": 53,
+      "total": 54,
+      "tcp_alive": 54,
       "ok": 49,
       "unsupported": 0,
       "dropped_by_cap": 0
@@ -112,7 +112,7 @@
     },
     "RU": {
       "total": 5,
-      "tcp_alive": 5,
+      "tcp_alive": 4,
       "ok": 2,
       "unsupported": 0,
       "dropped_by_cap": 0
@@ -131,29 +131,22 @@
       "unsupported": 0,
       "dropped_by_cap": 0
     },
-    "TW": {
-      "total": 1,
-      "tcp_alive": 0,
-      "ok": 0,
-      "unsupported": 0,
-      "dropped_by_cap": 0
-    },
     "UNKNOWN": {
-      "total": 9,
-      "tcp_alive": 9,
-      "ok": 7,
+      "total": 8,
+      "tcp_alive": 8,
+      "ok": 5,
       "unsupported": 0,
       "dropped_by_cap": 0
     },
     "US": {
-      "total": 24,
-      "tcp_alive": 24,
-      "ok": 18,
-      "unsupported": 2,
+      "total": 22,
+      "tcp_alive": 19,
+      "ok": 16,
+      "unsupported": 0,
       "dropped_by_cap": 0
     }
   },
   "all_ok": 50,
-  "all_dropped_by_cap": 83,
-  "unsupported_total": 6
+  "all_dropped_by_cap": 68,
+  "unsupported_total": 4
 }
