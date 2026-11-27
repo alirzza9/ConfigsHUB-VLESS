@@ -1,1 +1,0 @@
-vless://5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&insecure=1&allowInsecure=1&pbk=PCm0k-SvNd00cgNuqqnbCzmwVZd5vkgX2ZLk2_qngRs&sid=b60a93&spx=%2F97e87bd21631e30&flow=xtls-rprx-vision#Alirzza🇬🇧
